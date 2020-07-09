@@ -15,3 +15,11 @@
 **Thoughts:** Love this interactive codelab concept. Probably this codelab provides some outdated techniques, but maybe it's good to learn fundamentals.
 
 **Link to work:** [Dagger codelab](https://codelabs.developers.google.com/codelabs/android-dagger/)
+
+### Day 3: July 9, 2020
+
+**Today's Progress**: Finished Dagger codelab! Learned about scoping multiple activities, testing, provides annotation and qualifiers.
+
+**Thoughts:** Dagger seems to me overcomplicated. But I should go deeper to understand advanced use cases.
+
+**Link to work:** [Dagger codelab](https://codelabs.developers.google.com/codelabs/android-dagger/)
