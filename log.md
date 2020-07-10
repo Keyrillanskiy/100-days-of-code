@@ -23,3 +23,9 @@
 **Thoughts:** Dagger seems to me overcomplicated. But I should go deeper to understand advanced use cases.
 
 **Link to work:** [Dagger codelab](https://codelabs.developers.google.com/codelabs/android-dagger/)
+
+### Day 4: July 10, 2020
+
+**Today's Progress**: Implemented Dagger DI with android specific code generation and started learning about Single activity navigation with Cicerone.
+
+**Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive), [Cicerone](https://github.com/terrakok/Cicerone)
