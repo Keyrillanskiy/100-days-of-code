@@ -29,3 +29,11 @@
 **Today's Progress**: Implemented Dagger DI with android specific code generation and started learning about Single activity navigation with Cicerone.
 
 **Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive), [Cicerone](https://github.com/terrakok/Cicerone)
+
+### Day 5: July 12, 2020
+
+**Today's Progress**: Implemented basic Cicerone navigation and sample player screen with play/pause button.
+
+**Thoughts:** Noticed, that I frequently losing focus on current task and spending time on reading some theory. It consumes so much time!
+
+**Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive), [Cicerone](https://github.com/terrakok/Cicerone)
