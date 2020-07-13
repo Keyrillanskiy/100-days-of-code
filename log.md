@@ -37,3 +37,11 @@
 **Thoughts:** Noticed, that I frequently losing focus on current task and spending time on reading some theory. It consumes so much time!
 
 **Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive), [Cicerone](https://github.com/terrakok/Cicerone)
+
+### Day 6: July 13, 2020
+
+**Today's Progress**: Learned a lot of theory about fragments, implemented search bar and query processing with RxJava in other private side project.
+
+**Thoughts:** Watched useful video about finishing personal projects. Realized, that I'm more productive at night.
+
+**Link to work:** [How to Finish What You Start](https://www.youtube.com/watch?v=Ai8Irb7L_JM&list=WL&index=11&t=0s)
