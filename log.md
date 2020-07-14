@@ -45,3 +45,11 @@
 **Thoughts:** Watched useful video about finishing personal projects. Realized, that I'm more productive at night.
 
 **Link to work:** [How to Finish What You Start](https://www.youtube.com/watch?v=Ai8Irb7L_JM&list=WL&index=11&t=0s)
+
+### Day 7: July 14, 2020
+
+**Today's Progress**: I finished search logic, RecyclerView (list view) now shows dynamic search results. Found out about Filterable interface.
+
+**Thoughts:** I feel good when implementing such UI things.
+
+**Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive)
