@@ -53,3 +53,9 @@
 **Thoughts:** I feel good when implementing such UI things.
 
 **Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive)
+
+### Day 8: July 16, 2020
+
+**Today's Progress**: Did some code exercises, because it is recommended for a future job application. Implemented printing of binary tree layer by layer and also implemented filtering iterator.
+
+**Thoughts:** Feel a little bit stupid when doing this exercises.
