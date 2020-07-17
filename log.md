@@ -59,3 +59,11 @@
 **Today's Progress**: Did some code exercises, because it is recommended for a future job application. Implemented printing of binary tree layer by layer and also implemented filtering iterator.
 
 **Thoughts:** Feel a little bit stupid when doing this exercises.
+
+### Day 9: July 17, 2020
+
+**Today's Progress**: Started implementation of media app architecture. Documentation is messed up.
+
+**Thoughts:** I'm exhausted today, forced myself to code for one hour.
+
+**Link to work:** [Audio app overview](https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app)
