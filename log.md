@@ -67,3 +67,9 @@
 **Thoughts:** I'm exhausted today, forced myself to code for one hour.
 
 **Link to work:** [Audio app overview](https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app)
+
+### Day 10: July 18, 2020
+
+**Today's Progress**: Solved exercise about printing all binary tree paths.
+
+**Thoughts:** I'm still exhausted.
