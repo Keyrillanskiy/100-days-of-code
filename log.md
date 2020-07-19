@@ -79,3 +79,5 @@
 **Today's Progress**: Solved bunch of exercises on codewars.
 
 **Thoughts:** This algorithm tasks start to feel quite interesting.
+
+**Link to work:** [Codewars account](https://www.codewars.com/users/Keyrillanskiy)
