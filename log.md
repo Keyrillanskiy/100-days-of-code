@@ -73,3 +73,9 @@
 **Today's Progress**: Solved exercise about printing all binary tree paths.
 
 **Thoughts:** I'm still exhausted.
+
+### Day 11: July 19, 2020
+
+**Today's Progress**: Solved bunch of exercises on codewars.
+
+**Thoughts:** This algorithm tasks start to feel quite interesting.
