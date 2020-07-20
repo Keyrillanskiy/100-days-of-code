@@ -81,3 +81,11 @@
 **Thoughts:** This algorithm tasks start to feel quite interesting.
 
 **Link to work:** [Codewars account](https://www.codewars.com/users/Keyrillanskiy)
+
+### Day 12: July 20, 2020
+
+**Today's Progress**: Finished media app architecture (I hope so), started implementing player methods, audio focus and service lifecycle handling.
+
+**Thoughts:** Radio player service is getting more and more complex.
+
+**Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive)
