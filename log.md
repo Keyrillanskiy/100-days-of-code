@@ -89,3 +89,9 @@
 **Thoughts:** Radio player service is getting more and more complex.
 
 **Link to work:** [Radioactive](https://github.com/Keyrillanskiy/Radioactive)
+
+### Day 13: July 21, 2020
+
+**Today's Progress**: Stuck on codewars task about integer calculation optimization.
+
+**Link to work:** [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/kotlin)
