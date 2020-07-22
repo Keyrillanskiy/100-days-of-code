@@ -95,3 +95,9 @@
 **Today's Progress**: Stuck on codewars task about integer calculation optimization.
 
 **Link to work:** [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/kotlin)
+
+### Day 14: July 22, 2020
+
+**Today's Progress**: Solved previous codewars task and another one.
+
+**Link to work:** [Codewars account](https://www.codewars.com/users/Keyrillanskiy)
