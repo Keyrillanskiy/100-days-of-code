@@ -101,3 +101,9 @@
 **Today's Progress**: Solved previous codewars task and another one.
 
 **Link to work:** [Codewars account](https://www.codewars.com/users/Keyrillanskiy)
+
+### Day 15: July 24, 2020
+
+**Today's Progress**: Solved 2 tasks on codewars, 6 and 7 kuy difficulty.
+
+**Link to work:** [Codewars account](https://www.codewars.com/users/Keyrillanskiy)
